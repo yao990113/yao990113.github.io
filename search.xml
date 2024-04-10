@@ -3,18 +3,28 @@
   <entry>
     <title>博客介绍</title>
     <url>/2024/04/07/hello-world/</url>
-    <content><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;iiiii&quot;</span></span><br></pre></td></tr></table></figure>
+    <content><![CDATA[<td><h3 style="font-family: 华文宋体;"><font size='5'><b><a href="https://yao990113.github.io/%E4%BD%9C%E5%93%81%E4%B8%80/" target="_blank">作品一</a>/<a href="https://yao990113.github.io/%E4%BD%9C%E5%93%81%E4%BA%8C/" target="_blank">作品二</a></b></font></h3></td>
 
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
 
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>（1）负责网络春晚抽奖活动、读书打卡活动内容策划、公众号推文工作;<br>（2）参与“大庆油田工会”微信公众号管理，包括文案撰写、专题策划、制造话题，粉丝数较之前<b>增长近20%</b>；<br>（3）分析小程序后台注册用户增长率，调研新注册用户的使用体验并适度调整活动方案.</p>
+</blockquote>
+<td><h3 style="font-family: 华文宋体;"><font size='5'><b><a href="https://yao990113.github.io/%E6%96%87%E5%88%9B%E8%AE%BE%E8%AE%A1/" target="_blank">文创设计</a></b></font></h3></td>
 
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<blockquote>
+<p>（1）调研产品用户需求;<br>（2）围绕“纪念铁人诞辰百年”、“百湖之城·大庆”、“大庆油田”等主题设计原创文创产品草图，打破设计同质化.</p>
+</blockquote>
+<td><h3 style="font-family: 华文宋体;"><font size='5'><b><a href="https://yao990113.github.io/%E6%96%B0%E9%97%BB%E5%B1%95%E7%A4%BA/" target="_blank">新闻展示</a></b></font></h3></td>
+
+<blockquote>
+<p>（1）负责“大庆油田工会”微信公众号运营管理及宣传工作及推文稿件的编辑、校对工作；<br>（2）通过分析新闻稿件的阅读量、点赞量、评论量、转发量等数据，进一步分析粉丝群体、跟进热点话题、优化文章质量</p>
+</blockquote>
+<td><h3 style="font-family: 华文宋体;"><font size='5'><b><a href="https://yao990113.github.io/%E8%A7%86%E9%A2%91%E5%AE%A3%E4%BC%A0/" target="_blank">视频宣传</a></b></font></h3></td>
+
+<blockquote>
+<p>（1）明确宣传的目标群体，确定宣传目标，编辑优质的文字内容，搭建视频素材库；<br>（2）采用实景拍摄、特效制作、行文解说的内容进行制作，并进行视频的基础剪辑和字幕添加工作</p>
+</blockquote>
 ]]></content>
   </entry>
 </search>
